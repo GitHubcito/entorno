@@ -23,4 +23,4 @@ Requirements:
 ESX (https://github.com/ESX-Org/es_extended)
 A brain
 
-Cualquier duda pueden hacérmela saber a mi discord: Lirol#6701
+Cualquier duda pueden hacérmela saber a mi discord: Atomic#1000
